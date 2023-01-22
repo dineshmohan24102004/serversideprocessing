@@ -151,4 +151,4 @@ def rectarea(request):
 ![images](images/serversideprocessing.png)
 
 ## Result:
-
+A website to perform mathematical calculation in server side id executed successfully
